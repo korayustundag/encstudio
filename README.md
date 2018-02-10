@@ -38,6 +38,10 @@ Please [click here](https://goo.gl/zHHeHe) to be in the project.
 
 Thank you...
 
+## Project Owner
+
 Koray ÜSTÜNDAĞ
-[mskorayustundag@gmail.com](mailto:mskorayustundag@gmail)
+
+[mskorayustundag@gmail.com](mailto:mskorayustundag@gmail.com)
+
 [www.korayustundag.com.tr](https://www.korayustundag.com.tr/)
